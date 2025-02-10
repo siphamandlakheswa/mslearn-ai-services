@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+W8H3pchws=",
+  "success": true,
+  "projectFilePath": "E:\\mslearn-ai-services\\Labfiles\\02-ai-services-security\\C-Sharp\\keyvault_client\\keyvault_client.csproj",
+  "expectedPackageFiles": [
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
